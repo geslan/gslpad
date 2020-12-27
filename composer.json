@@ -1,0 +1,17 @@
+{
+    "name": "geslan/gslpad",
+    "description": "一个基于thinkphp6 layui okadmin的 自己整的后台",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "geslan",
+            "email": "geslan@live.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "gslpad\\": "src/"
+        }
+    }
+}
